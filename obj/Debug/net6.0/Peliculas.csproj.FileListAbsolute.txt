@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\projects\Peliculas\bin\Debug\net6.0\Peliculas.exe
+C:\Users\Usuario\Desktop\projects\Peliculas\bin\Debug\net6.0\Peliculas.deps.json
+C:\Users\Usuario\Desktop\projects\Peliculas\bin\Debug\net6.0\Peliculas.runtimeconfig.json
+C:\Users\Usuario\Desktop\projects\Peliculas\bin\Debug\net6.0\Peliculas.dll
+C:\Users\Usuario\Desktop\projects\Peliculas\bin\Debug\net6.0\ref\Peliculas.dll
+C:\Users\Usuario\Desktop\projects\Peliculas\bin\Debug\net6.0\Peliculas.pdb
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.dll
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\ref\Peliculas.dll
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.pdb
+C:\Users\Usuario\Desktop\projects\Peliculas\obj\Debug\net6.0\Peliculas.genruntimeconfig.cache
